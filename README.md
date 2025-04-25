@@ -1,12 +1,23 @@
-# React + Vite
+# Glovo Homepage UI Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **fully responsive Glovo homepage UI clone**, built using **Tailwind CSS**. The project replicates the look and feel of Glovo's homepage, focusing on clean design and mobile-first responsiveness.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 📱 **Fully Responsive** – Adapts beautifully to all screen sizes (mobile, tablet, desktop)
+- 🎯 **Pixel-perfect UI** inspired by Glovo
+- ⚡ **Fast and lightweight** with Tailwind CSS
+- 🧩 Modular and clean code structure
+- 💡 Built with a mobile-first approach
 
-## Expanding the ESLint configuration
+## 📸 JAM recording
+    https://jam.dev/c/1f000161-2be6-420c-8aca-101d8bf512b4
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+## 🛠️ Tech Stack
+
+- **HTML5**
+- **Tailwind CSS**
+- **React**
+
